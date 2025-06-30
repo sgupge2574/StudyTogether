@@ -110,3 +110,10 @@ CREATE TABLE participants (
 
 - パスワードは使用していません。シンプルな操作性を重視しています。
 - 同じチーム名のユーザー同士でのみ、投稿と参加が共有されます。
+![image](https://github.com/user-attachments/assets/1a1b4521-3577-45e2-983d-45c3454ee1f0)
+![image](https://github.com/user-attachments/assets/1f4c1620-e29e-4e7c-bcdf-fb4c115c9388)
+![image](https://github.com/user-attachments/assets/34592f2b-923f-46da-89ef-47cbf991060b)
+![image](https://github.com/user-attachments/assets/055d31d6-2919-4ee8-8c5b-779d0dfdc526)
+
+
+
